@@ -5,5 +5,7 @@ Entering text into the input window (top) and pressing the enrypt/decrpt button 
 
 Placing encrypted text into the input window (top) and hitting the enrypt/decrpt button will decrypt it.
 
+Updates coming soon.
+
 
 
